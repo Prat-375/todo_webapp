@@ -1,2 +1,7 @@
-.venv
+venv
 .idea
+__pycache__
+*.pyc
+
+# Ignore the .env file that contains environment variables
+.env
